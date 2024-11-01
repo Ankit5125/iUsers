@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">iUsers</string>
+    <string name="press">Press</string>
+    <string name="generate">Generate</string>
+    <string name="fname">FName</string>
+    <string name="lname">LName</string>
+    <string name="data">Data</string>
+    <string name="age">Age :</string>
+    <string name="name">"Name : "</string>
+    <string name="gender">Gender : </string>
+    <string name="morf">M/F</string>
+    <string name="username">Username : </string>
+    <string name="user">user</string>
+    <string name="password">"Password : "</string>
+    <string name="pass">****</string>
+</resources>
